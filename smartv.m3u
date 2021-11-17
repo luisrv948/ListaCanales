@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,tvg-name="TIGO SPORTS 1 HD" group-title="Deportes",TIGO SPORTS 1 HD
+#EXTINF:-1,tvg-name="TIGO SPORTS 1 HD" group-title="TIGO",TIGO SPORTS 1 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/14461
-#EXTINF:-1,tvg-name="TIGO SPORTS 2 HD" group-title="Deportes",TIGO SPORTS 2 HD
+#EXTINF:-1,tvg-name="TIGO SPORTS 2 HD" group-title="TIGO",TIGO SPORTS 2 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/14462
 #EXTINF:-1,Deportes: DTV SPORTS 1 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/6926
