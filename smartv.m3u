@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/ZhvkYeg.jpg",101 Tele Antequera
 https://limited38.todostreaming.es/live/101tv-AntequeraHD.m3u8
-#EXTINF:-1 group-title="TIGO",TIGO SPORTS 1 HD
+#EXTINF:-1 group-title="Tigo",TIGO SPORTS 1 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/14461
-#EXTINF:-1 group-title="TIGO",TIGO SPORTS 2 HD
+#EXTINF:-1 group-title="Tigo",TIGO SPORTS 2 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/14462
 #EXTINF:-1,Deportes: DTV SPORTS 1 HD
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/6926
