@@ -934,6 +934,83 @@ http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/8325
 #EXTINF:-1 group-title="PERU", PE: CANAL N
 http://tv.streamingtv.news:25461/DarwinRestream/Ysuejeowwbb/14597
 
+#EXTINF:-1 tvg-id="1018" tvg-name="Animax" tvg-logo="https://www.m3u.cl/logo/1018_Animax.png" group-title="PERU", PE: Animax | HN
+https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="488" tvg-name="Anime Zone TV" tvg-logo="https://www.m3u.cl/logo/488_Anime_Zone_TV.png" group-title="PERU", PE: Anime Zone TV | AR
+http://azxtv.com/hls/stream.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://www.m3u.cl/logo/692_Best_Cable_Sports.png" group-title="PERU", PE: Best Cable Sports | PE
+https://tv.siete.us:19360/bestcablesports/bestcablesports/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="496" tvg-name="Canal IPE" tvg-logo="https://www.m3u.cl/logo/496_Canal_IPE.png" group-title="PERU", PE: Canal IPE | PE
+http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="806" tvg-name="HispanTV" tvg-logo="https://www.m3u.cl/logo/806_HispanTV.png" group-title="PERU", PE: HispanTV | IR
+https://live.presstv.ir/live/smil:live.smil/hispan.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="38" tvg-name="Best Cable Music" tvg-logo="https://www.m3u.cl/logo/38_Best_Cable_Music.jpg" group-title="PERU", PE: Best Cable Music | PE
+https://tv.siete.us:19360/bestcablemusic/bestcablemusic/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="41" tvg-name="Hatun TV" tvg-logo="https://www.m3u.cl/logo/41_Hatun_TV.jpg" group-title="PERU", PE: Hatun TV | PE
+https://tv.siete.us:19360/bestcablehatuntv/bestcablehatuntv/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="39" tvg-name="Karibeña TV" tvg-logo="https://www.m3u.cl/logo/39_Karibena_TV.jpg" group-title="PERU", PE: Karibeña TV | PE
+https://cu.onliv3.com/livevd/user1.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="40" tvg-name="Mas Cumbia" tvg-logo="https://www.m3u.cl/logo/40_Mas_Cumbia.png" group-title="PERU", PE: Mas Cumbia | PE
+https://tv.siete.us:19360/mascumbiatvonline/mascumbiatvonline/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="771" tvg-name="Mundo de la Musica TV" tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="PERU", PE: Mundo de la Musica TV | CL
+https://593b04c4c5670.streamlock.net:443/8018/8018/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="35" tvg-name="TOP Latino TV" tvg-logo="https://www.m3u.cl/logo/35_TOP_Latino_TV.png" group-title="PERU", PE: TOP Latino TV | PE
+https://5cefcbf58ba2e.streamlock.net:443/tltvweb/tvweb.stream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="43" tvg-name="Turbo Mix TV" tvg-logo="https://www.m3u.cl/logo/43_Turbo_Mix_TV.png" group-title="PERU", PE: Turbo Mix TV | PE
+https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="876" tvg-name="Vision Musica TV" tvg-logo="https://www.m3u.cl/logo/876_Vision_Musica_TV.png" group-title="PERU", PE: Vision Musica TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="2" tvg-name="Zapping Music" tvg-logo="https://www.m3u.cl/logo/2_Zapping_Music.png" group-title="PERU", PE: Zapping Music | CL
+https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="969" tvg-name="Onda Digital TV" tvg-logo="https://www.m3u.cl/logo/969_Onda_Digital_TV.png" group-title="PERU", PE: Onda Digital TV | PE
+https://ed1ov.live.opencaster.com/CwCfFGFdtebB/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="705" tvg-name="TV Peru Noticias" tvg-logo="https://www.m3u.cl/logo/705_TV_Peru_Noticias.png" group-title="PERU", PE: TV Peru Noticias | PE
+https://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="684" tvg-name="UCI Noticias 1" tvg-logo="https://www.m3u.cl/logo/684_UCI_Noticias_1.jpg" group-title="PERU", PE: UCI Noticias 1 | PE
+http://168.205.133.38:80/uci1/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="706" tvg-name="UCI Noticias 2" tvg-logo="https://www.m3u.cl/logo/706_UCI_Noticias_2.jpg" group-title="PERU", PE: UCI Noticias 2 | PE
+http://168.205.133.38:80/uci2/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="687" tvg-name="Vision Noticias Peru" tvg-logo="https://www.m3u.cl/logo/687_Vision_Noticias_Peru.png" group-title="PERU", PE: Vision Noticias Peru | PE
+https://5ee0faac3bbae.streamlock.net/visionnoticias/visionnoticias/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="471" tvg-name="Cine Club" tvg-logo="https://www.m3u.cl/logo/471_Cine_Club.png" group-title="PERU", PE: Cine Club | PE
+https://stmv.panel.grupolimalive.com/cinperu/cinperu/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="694" tvg-name="Antares TV" tvg-logo="https://www.m3u.cl/logo/694_Antares_TV.png" group-title="PERU", PE: Antares TV | PE
+https://5c3fb01839654.streamlock.net:1963/iptvantares/liveantarestv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="693" tvg-name="Best Cable TV" tvg-logo="https://www.m3u.cl/logo/693_Best_Cable_TV.png" group-title="PERU", PE: Best Cable TV | PE
+https://tv.siete.us:19360/bestcable/bestcable/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="695" tvg-name="BHTV" tvg-logo="https://www.m3u.cl/logo/695_BHTV.png" group-title="PERU", PE: BHTV | 
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="704" tvg-name="Central TV Chosica" tvg-logo="https://www.m3u.cl/logo/704_Central_TV_Chosica.png" group-title="PERU", PE: Central TV Chosica | PE
+http://cdn2.ujjina.com:1935/iptvcentraltv/livecentraltvtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="696" tvg-name="Cultura 24 TV" tvg-logo="https://www.m3u.cl/logo/696_Cultura_24_TV.png" group-title="PERU", PE: Cultura 24 TV | PE
+http://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="691" tvg-name="Exitosa" tvg-logo="https://www.m3u.cl/logo/691_Exitosa.jpg" group-title="PERU", PE: Exitosa | PE
+https://cu.onliv3.com/livevd1/user2.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="697" tvg-name="Hechicera TV" tvg-logo="https://www.m3u.cl/logo/697_Hechicera_TV.png" group-title="PERU", PE: Hechicera TV | PE
+https://panel.streamingtv-mediacp.online:1936/8108/8108/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="690" tvg-name="JN19" tvg-logo="https://www.m3u.cl/logo/690_JN19.png" group-title="PERU", PE: JN19 | PE
+https://mediastreamm.com:3149/live/jn19tvlive.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="689" tvg-name="Mega TV" tvg-logo="https://www.m3u.cl/logo/689_Mega_TV.png" group-title="PERU", PE: Mega TV | PE
+https://media2.cdnlayer.biz:8081/8008/index.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="698" tvg-name="Monterrico TV" tvg-logo="https://www.m3u.cl/logo/698_Monterrico_TV.png" group-title="PERU", PE: Monterrico TV | PE
+http://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="699" tvg-name="Ovacion" tvg-logo="https://www.m3u.cl/logo/699_Ovacion.png" group-title="PERU", PE: Ovacion | PE
+http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="700" tvg-name="Pax TV" tvg-logo="https://www.m3u.cl/logo/700_Pax_TV.png" group-title="PERU", PE: Pax TV | PE
+http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="701" tvg-name="TV Cosmos" tvg-logo="https://www.m3u.cl/logo/701_TV_Cosmos.png" group-title="PERU", PE: TV Cosmos | PE
+https://59d39900ebfb8.streamlock.net:443/str15live/str15live/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="686" tvg-name="TVperuanisima" tvg-logo="https://www.m3u.cl/logo/686_TVperuanisima.png" group-title="PERU", PE: TVperuanisima | PE
+http://k4.usastreams.com/TVperuanisima/TVperuanisima/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="702" tvg-name="Unitel" tvg-logo="https://www.m3u.cl/logo/702_Unitel.png" group-title="PERU", PE: Unitel | PE
+https://cp.sradiotv.com:1936/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="703" tvg-name="Via Television Tarapoto" tvg-logo="https://www.m3u.cl/logo/703_Via_Television_Tarapoto.png" group-title="PERU", PE: Via Television Tarapoto | PE
+https://5ee0faac3bbae.streamlock.net:443/viatv2021/viatv2021/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-id="688" tvg-name="Vision TV" tvg-logo="https://www.m3u.cl/logo/688_Vision_TV.png" group-title="PERU", PE: Vision TV | PE
+https://5ee0faac3bbae.streamlock.net/visionmusica/visionmusica/playlist.m3u8?PlaylistM3UCL
+
+
+
 
 
 #EXTINF:-1 group-title="MEXICO", *****MEXICO*****
